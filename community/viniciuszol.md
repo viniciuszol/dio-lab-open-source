@@ -1,4 +1,4 @@
-# Vinícius
+# Vinícius Souza
 Estudante de Ciência da Computação apaixonado em Front-End, Java, Python e Banco de Dados!!
 ## Conete-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciussszo/)
